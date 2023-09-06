@@ -9,3 +9,4 @@ export default function BadgesBtn({ name, className, color, shape }) {
 
   return <button className={allClasses}>Badge</button>;
 }
+ 
